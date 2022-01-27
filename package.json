@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/offscreencanvas": "^2019.6.0",
     "@types/webgl2": "^0.0.5",
-    "three": "^0.110.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.4",
